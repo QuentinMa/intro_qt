@@ -1,3 +1,4 @@
+// test
 #include <QApplication>
 #include <fenprincipale.h>
 #include <fencodegenere.h>
